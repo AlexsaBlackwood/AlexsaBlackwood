@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">🔥 Alexsa Blackwood 🔥</h1>  
 
-<!--
-**AlexsaBlackwood/AlexsaBlackwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Drifting through code, probability, and the shadows of the forest…*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Realm ◼️
+- **Simulations & Physics** – Cars, drift, tire pressure, apex mastery  
+- **Data & Probability** – Turning chaos into patterns  
+- **Creative Tech** – Python, visualizations, and experimental projects  
+
+---
+
+
+## Tools & Skills ◆
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsaBlackwood&layout=compact&theme=github_dark_dimmed&show_icons=true)
+](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+
+---
+
+## Featured Quests ●
+- **Car Drift Simulator** – conquer corners with adjustable power & tire pressure  
+- **Probability Grimoire** – personal notes on randomness & statistics  
+- **Forest of Data** – interactive Python visualizations  
+
+---
+## Leetcode ●
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/agaltsovaaa2312)
+
+
+
